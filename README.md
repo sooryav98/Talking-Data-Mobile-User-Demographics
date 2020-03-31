@@ -10,5 +10,5 @@ Multiclass Log Loss
 
 #### Contains 3 .ipynb files\
 EDA.ipynb: Exploratory data Analysis and observations from data\
-modelling.ipynb: Complete approach to the problem (from feature engineering to modelling)
+modelling.ipynb: Complete approach to the problem (from feature engineering to modelling)\
 pipeline.ipynb: Complete pipline for best solution
