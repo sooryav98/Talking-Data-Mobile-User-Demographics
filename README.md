@@ -9,6 +9,6 @@ Predict the age and gender of a user given various details.
 Multiclass Log Loss
 
 #### Contains 3 .ipynb files\
-EDA.ipynb: Exploratory data Analysis and observations from data\
-modelling.ipynb: Complete approach to the problem (from feature engineering to modelling)\
-pipeline.ipynb: Complete pipline for best solution
+1) EDA.ipynb: Exploratory data Analysis and observations from data\
+2) modelling.ipynb: Complete approach to the problem (from feature engineering to modelling)\
+3) pipeline.ipynb: Complete pipline for best solution
